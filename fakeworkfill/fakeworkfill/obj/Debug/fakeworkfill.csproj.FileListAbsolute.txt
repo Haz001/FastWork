@@ -1,0 +1,10 @@
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\bin\Debug\fakeworkfill.exe.config
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\bin\Debug\fakeworkfill.exe
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\bin\Debug\fakeworkfill.pdb
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\obj\Debug\fakeworkfill.csprojResolveAssemblyReference.cache
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\obj\Debug\fakeworkfill.Form1.resources
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\obj\Debug\fakeworkfill.Properties.Resources.resources
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\obj\Debug\fakeworkfill.csproj.GenerateResource.Cache
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\obj\Debug\fakeworkfill.csproj.CoreCompileInputs.cache
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\obj\Debug\fakeworkfill.exe
+c:\users\harry\source\repos\fakeworkfill\fakeworkfill\obj\Debug\fakeworkfill.pdb

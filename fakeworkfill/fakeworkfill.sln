@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fakeworkfill", "fakeworkfill\fakeworkfill.csproj", "{75FD927E-94A2-4CC8-BE21-CF5D37F5ADAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75FD927E-94A2-4CC8-BE21-CF5D37F5ADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FD927E-94A2-4CC8-BE21-CF5D37F5ADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FD927E-94A2-4CC8-BE21-CF5D37F5ADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FD927E-94A2-4CC8-BE21-CF5D37F5ADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A1B274-EB09-48BA-A8E2-A65907F2E2FF}
+	EndGlobalSection
+EndGlobal
